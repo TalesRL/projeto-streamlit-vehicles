@@ -1,0 +1,221 @@
+price,model_year,model,condition,cylinders,fuel,odometer,transmission,type,paint_color,is_4wd,date_posted,days_listed
+22799,2006,ford f-150,like new,6,diesel,117430,manual,hatchback,white,0,2024-09-16,42
+12964,2007,ram 1500,like new,8,diesel,70535,manual,pickup,silver,1,2024-08-06,88
+15953,2014,toyota rav4,like new,6,hybrid,178499,manual,truck,blue,0,2024-04-05,25
+18216,2014,nissan altima,fair,6,diesel,145599,manual,truck,gray,1,2024-09-06,108
+7610,2012,ford f-150,good,6,hybrid,113231,automatic,coupe,black,0,2024-07-19,48
+2500,2009,toyota camry,like new,6,diesel,34600,manual,pickup,white,1,2024-03-20,67
+13910,2010,jeep wrangler,like new,8,hybrid,36321,automatic,sedan,red,1,2024-06-14,29
+2500,2005,nissan altima,like new,4,diesel,147829,manual,pickup,blue,0,2024-07-28,64
+25373,2012,ford explorer,good,8,diesel,198022,automatic,sedan,red,1,2024-07-05,54
+25907,2022,ram 1500,good,8,gas,158337,manual,truck,red,0,2024-01-15,69
+14433,2007,toyota camry,new,8,diesel,18257,manual,sedan,red,1,2024-09-15,44
+22586,2013,nissan altima,fair,8,gas,211760,automatic,SUV,blue,0,2024-11-07,83
+12099,2020,ram 1500,like new,8,diesel,11528,automatic,truck,blue,0,2024-05-06,86
+29510,2020,ram 1500,like new,6,gas,42034,automatic,coupe,white,1,2024-04-04,88
+33077,2014,ram 1500,good,8,hybrid,126571,automatic,SUV,blue,1,2024-02-21,101
+20375,2005,ram 1500,good,8,gas,59943,automatic,pickup,black,0,2024-06-09,47
+15373,2019,jeep wrangler,good,8,diesel,116193,manual,coupe,silver,1,2024-08-21,44
+14318,2016,toyota rav4,good,8,diesel,195459,automatic,hatchback,blue,1,2024-12-13,117
+21392,2010,chevrolet equinox,new,8,hybrid,163052,manual,truck,blue,1,2024-11-11,10
+20946,2017,chevrolet equinox,like new,4,gas,164988,manual,truck,blue,0,2024-04-19,96
+4586,2007,chevrolet equinox,good,8,gas,115534,manual,sedan,silver,0,2024-09-26,73
+2500,2015,chevrolet equinox,excellent,6,diesel,17492,automatic,sedan,black,1,2024-03-01,93
+22902,2022,ram 1500,good,8,diesel,138986,automatic,sedan,red,1,2024-10-15,93
+10253,2019,ram 1500,excellent,8,hybrid,163379,manual,pickup,white,0,2024-07-21,20
+5784,2006,ram 1500,excellent,8,diesel,54142,automatic,coupe,black,0,2024-05-08,7
+32810,2010,toyota camry,excellent,4,diesel,31120,manual,truck,silver,0,2024-08-06,22
+25677,2017,ford f-150,like new,4,hybrid,217034,manual,sedan,blue,1,2024-02-13,105
+2500,2008,jeep wrangler,excellent,8,hybrid,66616,automatic,SUV,blue,1,2024-10-08,69
+12966,2014,ram 1500,like new,4,hybrid,8203,manual,truck,blue,1,2024-10-07,37
+15685,2016,ford explorer,fair,4,gas,23286,manual,truck,black,1,2024-06-27,118
+2500,2010,nissan altima,good,4,gas,195577,automatic,sedan,silver,0,2024-04-08,50
+30567,2022,ford f-150,like new,4,gas,158242,automatic,truck,gray,0,2024-02-23,50
+24951,2007,toyota camry,fair,6,gas,8834,automatic,truck,gray,1,2024-10-15,59
+2500,2015,toyota rav4,good,8,hybrid,53692,manual,hatchback,black,0,2024-05-09,23
+2500,2007,jeep wrangler,new,8,diesel,125780,automatic,truck,blue,0,2024-05-23,80
+2500,2015,jeep wrangler,fair,6,hybrid,217273,automatic,hatchback,black,0,2024-10-02,83
+2500,2011,toyota camry,excellent,8,diesel,145398,automatic,truck,silver,0,2024-08-10,60
+9264,2019,ram 1500,fair,4,diesel,51017,automatic,SUV,blue,1,2024-03-02,63
+34726,2017,jeep wrangler,like new,6,hybrid,48635,manual,hatchback,blue,1,2024-03-21,41
+4200,2015,ford f-150,excellent,8,hybrid,39052,automatic,pickup,blue,0,2024-12-24,5
+2500,2009,ram 1500,like new,8,diesel,13706,automatic,truck,black,1,2024-08-14,40
+2500,2010,ram 1500,fair,8,hybrid,201473,automatic,hatchback,gray,0,2024-12-05,108
+36414,2017,toyota rav4,good,4,gas,62195,automatic,coupe,blue,0,2024-02-22,51
+14419,2019,toyota rav4,like new,8,gas,28261,manual,pickup,gray,0,2024-04-11,39
+2774,2013,ram 1500,excellent,6,gas,45619,manual,hatchback,silver,0,2024-07-23,37
+10854,2019,ram 1500,new,4,diesel,49673,automatic,truck,red,0,2024-01-17,106
+33941,2022,ram 1500,new,6,diesel,73130,automatic,pickup,black,1,2024-08-21,73
+25838,2020,ford explorer,like new,6,gas,187357,automatic,pickup,red,1,2024-07-10,96
+5485,2022,ford explorer,excellent,8,hybrid,122484,manual,SUV,white,0,2024-04-12,78
+2500,2010,chevrolet equinox,new,4,gas,144212,manual,SUV,white,0,2024-01-06,60
+32679,2015,ford f-150,new,4,hybrid,16251,manual,pickup,silver,0,2024-07-21,88
+2500,2016,jeep wrangler,new,4,hybrid,72863,automatic,truck,blue,1,2024-05-12,41
+26510,2022,jeep wrangler,good,4,gas,116785,manual,hatchback,gray,1,2024-08-24,56
+4868,2020,chevrolet equinox,like new,8,diesel,98602,manual,sedan,black,1,2024-12-25,6
+26906,2010,ram 1500,new,6,gas,47335,automatic,coupe,black,1,2024-01-18,108
+2670,2013,chevrolet equinox,new,4,hybrid,133058,automatic,sedan,red,1,2024-12-18,25
+12743,2018,ram 1500,like new,4,hybrid,188550,manual,pickup,gray,0,2024-04-26,74
+23700,2006,toyota camry,like new,4,hybrid,196201,manual,hatchback,gray,0,2024-10-17,118
+12283,2012,toyota rav4,fair,8,gas,211962,manual,sedan,red,1,2024-08-17,14
+34866,2018,chevrolet silverado,like new,4,gas,163157,automatic,SUV,white,1,2024-12-23,44
+17503,2014,nissan altima,fair,8,gas,145240,automatic,truck,red,0,2024-07-20,80
+2500,2005,honda civic,good,6,gas,47856,automatic,truck,silver,1,2024-03-21,111
+20710,2006,ford f-150,new,6,hybrid,120801,manual,coupe,blue,1,2024-12-20,74
+8874,2016,nissan altima,excellent,4,diesel,81575,manual,hatchback,silver,0,2024-05-21,49
+25126,2015,toyota camry,excellent,4,gas,126658,automatic,truck,red,1,2024-07-09,21
+5137,2015,ford f-150,fair,4,hybrid,54465,automatic,truck,blue,1,2024-06-15,98
+13408,2016,honda civic,excellent,4,hybrid,85703,automatic,hatchback,blue,0,2024-08-26,70
+12242,2012,jeep wrangler,new,8,diesel,155469,manual,pickup,blue,0,2024-06-11,62
+38849,2020,ford f-150,excellent,6,hybrid,78956,manual,sedan,white,1,2024-07-11,88
+18575,2013,chevrolet silverado,new,6,diesel,32682,automatic,sedan,blue,0,2024-01-17,71
+4720,2014,chevrolet equinox,like new,8,hybrid,172909,automatic,sedan,silver,0,2024-06-16,25
+36956,2019,toyota camry,new,8,diesel,19392,automatic,coupe,blue,0,2024-03-16,81
+11964,2014,ram 1500,like new,4,diesel,156302,automatic,pickup,red,1,2024-10-19,81
+5754,2005,jeep wrangler,good,4,hybrid,12988,manual,pickup,white,1,2024-09-08,47
+2500,2006,ford f-150,like new,4,diesel,154601,automatic,hatchback,black,1,2024-07-24,8
+3390,2019,honda civic,like new,8,hybrid,101909,automatic,hatchback,silver,0,2024-05-05,112
+31124,2021,chevrolet silverado,like new,6,gas,210947,manual,hatchback,white,1,2024-12-16,38
+5660,2006,nissan altima,new,4,diesel,129946,manual,truck,black,0,2024-03-02,102
+17195,2012,chevrolet silverado,excellent,4,diesel,181017,manual,SUV,blue,1,2024-07-09,118
+40468,2017,ford f-150,good,4,hybrid,9085,automatic,pickup,blue,1,2024-05-22,70
+16149,2006,toyota rav4,excellent,6,gas,17925,automatic,SUV,red,0,2024-12-12,29
+17618,2015,ford explorer,excellent,4,hybrid,18746,manual,truck,white,0,2024-05-08,46
+27857,2022,ram 1500,fair,8,diesel,9793,manual,SUV,gray,0,2024-11-05,38
+19257,2011,ford explorer,excellent,6,hybrid,97233,automatic,pickup,white,0,2024-07-18,43
+23714,2014,chevrolet silverado,like new,6,hybrid,69990,automatic,sedan,black,0,2024-06-12,14
+2500,2010,chevrolet silverado,new,6,gas,198590,automatic,coupe,gray,1,2024-08-09,15
+2500,2005,chevrolet equinox,fair,8,gas,147170,manual,hatchback,silver,0,2024-06-20,15
+7906,2014,toyota rav4,like new,6,hybrid,192196,manual,SUV,white,1,2024-01-14,17
+10556,2018,toyota camry,fair,8,diesel,71562,manual,sedan,red,1,2024-12-04,34
+19111,2006,chevrolet silverado,like new,8,hybrid,46912,automatic,SUV,white,0,2024-01-26,102
+14765,2006,ford explorer,new,8,gas,187249,automatic,pickup,silver,0,2024-04-14,41
+32044,2014,ford f-150,fair,4,gas,119796,automatic,truck,black,0,2024-10-09,97
+34932,2015,nissan altima,new,8,hybrid,70584,automatic,coupe,white,1,2024-05-16,55
+25273,2017,ram 1500,excellent,8,gas,181982,manual,coupe,red,0,2024-01-25,89
+9421,2020,toyota rav4,like new,4,diesel,126807,automatic,truck,white,0,2024-09-24,83
+7816,2010,nissan altima,fair,4,hybrid,145904,automatic,coupe,red,0,2024-03-23,86
+5545,2019,honda civic,good,4,gas,173269,automatic,hatchback,gray,0,2024-03-20,31
+2500,2007,chevrolet silverado,new,8,gas,126533,automatic,pickup,red,0,2024-10-20,75
+2500,2011,chevrolet silverado,fair,8,hybrid,201575,manual,sedan,blue,1,2024-06-07,65
+32252,2022,ford explorer,good,6,hybrid,59738,manual,hatchback,red,0,2024-06-01,34
+12649,2021,ram 1500,good,6,diesel,71911,automatic,SUV,white,1,2024-03-28,15
+6885,2007,honda civic,new,6,diesel,103534,manual,pickup,blue,0,2024-12-23,34
+19602,2015,ford f-150,excellent,4,diesel,191279,automatic,truck,white,0,2024-04-01,16
+25606,2013,nissan altima,new,8,hybrid,74553,manual,hatchback,silver,0,2024-07-14,55
+4224,2018,nissan altima,excellent,4,hybrid,159988,automatic,pickup,blue,0,2024-10-14,16
+10553,2020,chevrolet silverado,excellent,4,gas,154822,manual,SUV,silver,0,2024-11-04,56
+14617,2018,chevrolet silverado,fair,6,gas,92848,automatic,pickup,red,1,2024-06-26,19
+30686,2006,toyota rav4,excellent,6,hybrid,9496,manual,sedan,white,1,2024-05-26,8
+26014,2016,nissan altima,good,4,hybrid,219745,manual,sedan,blue,1,2024-03-20,27
+5133,2021,honda civic,new,6,diesel,212172,manual,pickup,silver,0,2024-06-23,111
+2500,2010,ford explorer,new,8,hybrid,193158,manual,truck,silver,1,2024-10-12,18
+25942,2019,jeep wrangler,good,6,gas,27164,automatic,coupe,silver,1,2024-08-12,52
+11170,2010,ford f-150,like new,6,gas,102695,automatic,truck,gray,0,2024-10-11,63
+2500,2018,ram 1500,new,4,diesel,193297,manual,truck,gray,0,2024-12-14,56
+2500,2010,ford explorer,like new,6,diesel,141808,manual,hatchback,blue,1,2024-03-17,10
+2500,2007,chevrolet equinox,new,4,diesel,32793,manual,coupe,gray,1,2024-11-28,90
+32158,2019,chevrolet equinox,new,8,gas,165988,manual,pickup,gray,1,2024-08-14,50
+35099,2019,jeep wrangler,fair,4,gas,66570,automatic,truck,gray,1,2024-04-02,2
+2500,2009,ram 1500,new,6,gas,210443,automatic,coupe,gray,1,2024-01-04,8
+9787,2022,ram 1500,excellent,4,hybrid,210379,manual,truck,white,1,2024-07-20,78
+34528,2021,ram 1500,fair,8,diesel,98263,manual,coupe,silver,1,2024-09-12,120
+4255,2022,toyota camry,excellent,4,gas,170853,manual,SUV,black,1,2024-03-25,59
+33596,2017,chevrolet silverado,good,6,gas,138072,automatic,coupe,black,0,2024-04-14,87
+20985,2017,toyota camry,good,6,diesel,198560,manual,coupe,black,1,2024-11-02,49
+2500,2007,ram 1500,good,8,gas,214811,automatic,pickup,black,1,2024-09-06,101
+24591,2019,chevrolet equinox,new,6,gas,43058,manual,SUV,red,1,2024-08-24,6
+2500,2012,toyota camry,fair,4,diesel,143999,manual,sedan,silver,1,2024-08-09,81
+12405,2020,ford f-150,good,6,gas,86056,manual,pickup,black,1,2024-02-26,98
+11218,2012,chevrolet silverado,fair,8,diesel,95503,automatic,hatchback,silver,0,2024-09-21,38
+6655,2009,honda civic,excellent,6,hybrid,152276,manual,sedan,silver,0,2024-07-19,101
+13819,2021,ford f-150,fair,4,gas,173472,manual,SUV,blue,0,2024-02-17,1
+2500,2018,ford f-150,new,4,diesel,108900,manual,pickup,blue,0,2024-05-14,51
+24129,2008,toyota camry,like new,8,hybrid,211739,automatic,hatchback,white,0,2024-10-13,93
+11236,2008,chevrolet silverado,fair,8,diesel,134271,automatic,SUV,silver,0,2024-04-04,74
+26088,2021,toyota rav4,new,8,hybrid,140130,manual,hatchback,white,0,2024-07-20,45
+27107,2012,ford explorer,good,6,gas,105483,manual,coupe,blue,1,2024-10-22,33
+31805,2013,ram 1500,good,6,diesel,32433,manual,hatchback,red,0,2024-04-09,100
+6892,2010,chevrolet silverado,good,8,hybrid,182863,manual,SUV,gray,1,2024-08-02,40
+2500,2008,chevrolet equinox,like new,6,gas,110356,manual,sedan,white,0,2024-05-20,2
+19807,2011,nissan altima,excellent,6,gas,212272,automatic,SUV,silver,1,2024-12-10,42
+2500,2013,nissan altima,good,4,hybrid,113703,automatic,SUV,silver,1,2024-11-01,98
+2500,2014,ford explorer,fair,6,hybrid,85117,automatic,pickup,silver,1,2024-05-12,91
+22527,2008,toyota rav4,fair,6,gas,14165,automatic,sedan,gray,0,2024-08-05,76
+11267,2015,chevrolet silverado,new,8,gas,119840,manual,sedan,silver,1,2024-08-03,24
+16947,2010,jeep wrangler,excellent,4,hybrid,216648,manual,SUV,black,0,2024-09-14,116
+2500,2014,honda civic,like new,6,gas,85789,manual,coupe,blue,0,2024-09-17,116
+11302,2009,ford f-150,good,6,gas,219476,manual,SUV,silver,0,2024-05-02,12
+8245,2006,jeep wrangler,excellent,4,gas,172384,manual,hatchback,silver,1,2024-10-18,89
+15474,2021,ford explorer,like new,8,diesel,184688,manual,sedan,blue,1,2024-12-23,108
+15557,2020,chevrolet equinox,fair,6,diesel,30035,manual,SUV,black,1,2024-05-26,108
+19386,2017,chevrolet silverado,fair,6,diesel,211123,automatic,hatchback,black,0,2024-11-20,27
+30907,2015,ram 1500,excellent,6,hybrid,198810,automatic,truck,black,1,2024-11-27,25
+34052,2022,ford explorer,new,4,gas,207776,manual,pickup,blue,1,2024-07-09,14
+24437,2019,nissan altima,excellent,6,diesel,48182,manual,hatchback,blue,0,2024-01-14,83
+2500,2010,chevrolet equinox,good,6,gas,70100,manual,SUV,gray,1,2024-09-12,68
+26049,2022,jeep wrangler,like new,6,hybrid,140414,automatic,truck,gray,0,2024-01-05,20
+5150,2019,chevrolet equinox,excellent,6,hybrid,151850,manual,sedan,blue,0,2024-03-01,29
+26104,2012,nissan altima,fair,4,hybrid,9998,automatic,SUV,blue,0,2024-02-12,21
+22349,2012,ford f-150,new,4,hybrid,190728,manual,SUV,blue,0,2024-02-17,44
+12323,2017,toyota rav4,fair,6,gas,126698,automatic,SUV,black,0,2024-01-23,7
+34995,2016,chevrolet equinox,like new,8,gas,120747,manual,sedan,gray,0,2024-05-14,76
+2500,2007,toyota rav4,good,4,gas,133985,manual,hatchback,white,1,2024-04-22,78
+11738,2013,jeep wrangler,excellent,8,hybrid,126607,automatic,SUV,blue,0,2024-12-25,17
+2500,2012,honda civic,fair,6,hybrid,134623,automatic,truck,red,0,2024-07-03,107
+22596,2012,honda civic,new,8,hybrid,56791,manual,sedan,white,0,2024-12-16,26
+12409,2010,chevrolet silverado,like new,8,diesel,145718,manual,coupe,black,0,2024-12-02,115
+6588,2011,jeep wrangler,like new,6,diesel,41469,manual,coupe,gray,1,2024-03-27,64
+17310,2016,ford f-150,fair,4,gas,182126,automatic,coupe,blue,0,2024-07-16,38
+2500,2021,nissan altima,like new,6,gas,115692,automatic,truck,gray,1,2024-12-27,2
+17716,2006,honda civic,like new,4,gas,120640,automatic,pickup,blue,1,2024-05-26,9
+4177,2012,chevrolet silverado,good,6,diesel,20073,manual,SUV,blue,0,2024-02-07,15
+33519,2017,nissan altima,fair,4,diesel,181875,manual,pickup,red,0,2024-03-28,28
+2500,2009,nissan altima,fair,8,diesel,173027,automatic,truck,red,1,2024-11-14,88
+10005,2013,ford f-150,fair,4,diesel,145098,manual,coupe,red,0,2024-07-28,104
+3001,2017,ram 1500,like new,4,gas,20805,automatic,SUV,white,1,2024-02-23,82
+37177,2016,nissan altima,excellent,8,gas,24457,automatic,pickup,red,1,2024-10-06,51
+29625,2013,jeep wrangler,good,4,hybrid,164186,manual,SUV,gray,0,2024-02-08,65
+2500,2011,toyota camry,like new,4,diesel,219398,manual,pickup,gray,1,2024-08-19,61
+7993,2019,toyota camry,fair,4,diesel,163662,manual,hatchback,gray,1,2024-12-14,38
+28299,2009,ford f-150,fair,4,gas,76078,manual,hatchback,gray,0,2024-07-05,108
+11830,2007,honda civic,fair,6,gas,31927,manual,coupe,gray,0,2024-08-21,43
+27425,2012,toyota camry,excellent,6,diesel,17801,automatic,hatchback,white,1,2024-06-19,77
+2500,2008,jeep wrangler,like new,4,hybrid,100197,manual,coupe,red,1,2024-08-22,50
+11884,2016,chevrolet silverado,new,4,hybrid,143933,manual,hatchback,black,1,2024-10-09,111
+2500,2008,toyota camry,good,4,diesel,54649,automatic,hatchback,silver,0,2024-04-11,52
+19972,2021,toyota camry,excellent,8,gas,94092,manual,truck,silver,0,2024-09-26,108
+6916,2019,chevrolet silverado,fair,6,diesel,209136,automatic,SUV,silver,0,2024-01-11,98
+14141,2018,chevrolet silverado,fair,4,diesel,216795,manual,pickup,silver,0,2024-08-17,17
+11005,2017,honda civic,excellent,8,hybrid,6689,manual,truck,gray,1,2024-07-02,2
+14371,2007,toyota camry,like new,4,gas,62950,automatic,truck,red,1,2024-01-11,67
+23224,2019,toyota camry,excellent,6,diesel,93839,manual,hatchback,white,0,2024-02-09,67
+12160,2020,ram 1500,good,4,gas,184062,automatic,coupe,white,1,2024-02-08,90
+11382,2021,ford explorer,new,6,diesel,175757,automatic,pickup,red,0,2024-01-09,118
+29361,2011,nissan altima,good,4,diesel,75805,automatic,truck,white,0,2024-10-27,76
+27454,2020,ford f-150,new,8,diesel,48434,manual,truck,silver,0,2024-12-17,70
+5213,2015,ford explorer,like new,8,hybrid,214384,manual,pickup,red,0,2024-07-11,84
+6870,2005,nissan altima,excellent,8,gas,40507,automatic,truck,blue,0,2024-07-13,76
+31196,2016,chevrolet silverado,fair,6,gas,11331,manual,pickup,red,0,2024-07-17,6
+2500,2014,ram 1500,fair,8,gas,69288,automatic,pickup,white,0,2024-06-19,47
+21499,2015,chevrolet silverado,new,6,gas,63055,manual,SUV,silver,0,2024-07-24,91
+3881,2015,toyota camry,excellent,8,gas,20895,manual,sedan,red,0,2024-01-07,39
+21968,2006,toyota rav4,new,4,hybrid,37129,manual,pickup,white,0,2024-01-07,118
+2500,2010,ford explorer,fair,8,hybrid,201683,manual,truck,gray,1,2024-11-10,34
+6057,2016,toyota rav4,excellent,8,hybrid,209796,automatic,pickup,gray,1,2024-04-14,80
+19833,2022,toyota camry,excellent,6,gas,151971,manual,coupe,white,0,2024-07-28,19
+2500,2007,toyota rav4,fair,6,diesel,11850,manual,SUV,silver,1,2024-06-24,98
+2500,2005,ram 1500,good,4,diesel,218679,automatic,hatchback,blue,0,2024-04-10,100
+2500,2012,ford explorer,good,6,hybrid,124312,manual,hatchback,gray,1,2024-01-05,82
+13727,2006,chevrolet silverado,excellent,4,hybrid,177723,automatic,hatchback,white,0,2024-04-26,11
+2500,2006,toyota rav4,fair,6,hybrid,129800,manual,pickup,blue,1,2024-05-16,6
+24038,2009,chevrolet equinox,like new,6,gas,144679,automatic,hatchback,red,0,2024-10-08,86
+2500,2022,chevrolet silverado,good,8,gas,187440,automatic,pickup,gray,1,2024-05-17,63
+23371,2013,honda civic,like new,4,hybrid,83097,manual,SUV,blue,1,2024-02-04,58
+7426,2022,ford explorer,good,4,gas,9375,manual,hatchback,black,0,2024-11-02,35
+14052,2010,chevrolet equinox,excellent,6,gas,144736,automatic,hatchback,white,0,2024-06-12,19
+2500,2021,toyota rav4,good,4,hybrid,159819,manual,coupe,black,0,2024-09-02,9
+8965,2014,ram 1500,new,6,gas,127387,automatic,hatchback,silver,1,2024-05-10,98
+36844,2022,toyota rav4,excellent,6,gas,130426,manual,hatchback,white,1,2024-12-08,77
+18598,2017,ford explorer,like new,6,diesel,132097,manual,coupe,gray,1,2024-01-16,52
+26041,2022,honda civic,good,8,hybrid,65689,manual,SUV,gray,1,2024-03-28,90
