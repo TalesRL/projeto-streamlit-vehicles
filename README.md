@@ -49,6 +49,12 @@ Start Command:
 streamlit run app.py
 ```
 
-Depois de publicar no Render, adicione aqui a URL do aplicativo:
 
-URL do aplicativo: coloque aqui o link do Render.
+
+URL do aplicativo:# Projeto Streamlit Vehicles
+
+Aplicativo desenvolvido com Streamlit para análise exploratória de dados de veículos.
+
+## Link da aplicação
+
+https://projeto-streamlit-vehicles.onrender.com
